@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on devloping different kind of web application with Java-Spring Boot Framework and JPA-Hibernate
 - 📫 How to reach me ...
 linkedin:-
-https://www.linkedin.com/in/roze28/
+https://www.linkedin.com/in/roze28
+
 Mobile:-
 +8801611922882
 
