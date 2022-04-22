@@ -83,9 +83,9 @@ Timezone: Europe/Vienna (CEST)
 </p>
 <br />
 <p align="center">
-     <!-- laravel -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="40" height="40">
-    <!-- php -->
+     <!-- Java -->
+    <img src="https://github.com/roze28/RozeMart/blob/master/pngegg.png" width="40" height="40">
+    <!-- Spring Boot -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
     <!-- Javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
