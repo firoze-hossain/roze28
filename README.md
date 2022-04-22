@@ -3,7 +3,7 @@
 </p>
 <br />
 <p>
-<h1 align="center"><b>Mobile- +8801765002428</b></h1>
+<h2 align="center"><b>Mobile- +8801765002428</b></h2>
 </p>
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
