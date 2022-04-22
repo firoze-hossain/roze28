@@ -84,12 +84,12 @@ Timezone: Europe/Vienna (CEST)
 <br />
 <p align="center">
      <!-- Java -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/pngegg.png" width="50" height="50">
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/java.png" width="50" height="50">
     <!-- Spring Boot -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/spring%20boot.png" width="50" height="50">
-    <!-- Javascript -->
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/spring%20boot.png" width="50" height="50">
+    <!-- JPA & Hibernate -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+        <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/jpa-hibernate.png" alt="jpa&hibernate" width="50" height="50"/> 
     </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="javascript" width="40" height="40"/> 
     <!-- html -->
