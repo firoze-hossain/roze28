@@ -1,5 +1,9 @@
 <p>
-  <h1 align="center"><b>Hi, This is Md. Firoze Hossain 👋</h1>
+<h1 align="center"><b>Hi, This is Md. Firoze Hossain 👋</b></h1>
+</p>
+<br />
+<p>
+<h1 align="center"><b>Mobile- +8801765002428</b></h1>
 </p>
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
@@ -9,9 +13,9 @@
 </p>
 <br />
 
-<p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology</p>
+<p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
 <br />
-<p>Interested in developing Java Web application with Spring Boot, JPA & Hibernate, MySQL and Thymeleaf</p>
+<p>Interested in developing Java Web application with Spring Boot, JPA & Hibernate, MySQL and Thymeleaf.</p>
 <br />
 <p>Looking for an entry-level Software Engineer(Java) position in fast growing organization to utilize expertise in software development that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company to work with a diverse team that works towards contributing to the company’s vision and goals while concurrently aiding my personal growth.</p>
 <br />
