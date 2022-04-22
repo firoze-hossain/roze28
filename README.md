@@ -84,7 +84,7 @@ Timezone: Europe/Vienna (CEST)
 <br />
 <p align="center">
      <!-- Java -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/pngegg.png" width="40" height="40">
+    <img src="https://github.com/roze28/RozeMart/blob/master/pngegg.png" width="50" height="50">
     <!-- Spring Boot -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
     <!-- Javascript -->
