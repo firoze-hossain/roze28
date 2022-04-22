@@ -1,15 +1,19 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Imtiaze 👋</h1>
+  <h1 align="center"><b>Hi, This is Md. Firoze Hossain 👋</h1>
 </p>
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
 <!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/ahammed-imtiaze/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/roze28//"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2019 using PHP, Laravel and Vue. Friendly minded. Scrum & Agile inspired.</p>
+<p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology</p>
+<br />
+<p>Interested in developing Java Web application with Spring Boot, JPA & Hibernate, MySQL and Thymeleaf</p>
+<br />
+<p>Looking for an entry-level Software Engineer(Java) position in fast growing organization to utilize expertise in software development that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company to work with a diverse team that works towards contributing to the company’s vision and goals while concurrently aiding my personal growth.</p>
 <br />
 
 <h2 align="center">Worked on the projects, ahead of the game 💻</h2>
