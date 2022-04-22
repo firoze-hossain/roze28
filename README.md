@@ -91,14 +91,15 @@ Timezone: Europe/Vienna (CEST)
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/jpa-hibernate.png" alt="jpa&hibernate" width="50" height="50"/> 
     </a>
-    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/jpa-hibernate.png" alt="javascript" width="50" height="50"/> 
+   <!-- Thymeleaf -->
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/thymeleaf.png" alt="thymeleaf" width="50" height="50"/> 
     <!-- html -->
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/html.png" alt="html5" width="50" height="50"/> 
     </a>
     <!-- css -->
     <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+        <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/css.png" alt="css3" width="50" height="50"/> 
     </a>
     <img src="https://cutt.ly/7Opx2B6" width="40" height="40">
 <!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
