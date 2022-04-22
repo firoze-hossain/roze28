@@ -86,7 +86,7 @@ Timezone: Europe/Vienna (CEST)
      <!-- Java -->
     <img src="https://github.com/roze28/RozeMart/blob/master/pngegg.png" width="50" height="50">
     <!-- Spring Boot -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
+    <img src="https://github.com/roze28/RozeMart/blob/master/spring%20boot.png" width="50" height="50">
     <!-- Javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
