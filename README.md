@@ -3,7 +3,10 @@
 </p>
 <br />
 <p>
-<h2 align="center"><b>Mobile- +8801765002428</b></h2>
+<h2 align="center"><b>Mobile:- +8801765002428</b></h2>
+</p>
+<p>
+<h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
@@ -11,6 +14,13 @@
 <a href="https://www.linkedin.com/in/roze28//"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
 </p>
+<p align="center">
+<!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
+<!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
+<a href="https://www.hackerrank.com/roze28"><img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank" /></a>&nbsp;
+<!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
+</p>
+
 <br />
 
 <p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
