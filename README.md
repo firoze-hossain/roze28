@@ -91,7 +91,7 @@ Timezone: Europe/Vienna (CEST)
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/jpa-hibernate.png" alt="jpa&hibernate" width="50" height="50"/> 
     </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/jpa-hibernate.png" alt="javascript" width="50" height="50"/> 
     <!-- html -->
     <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
