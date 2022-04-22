@@ -101,20 +101,21 @@ Timezone: Europe/Vienna (CEST)
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/css.png" alt="css3" width="50" height="50"/> 
     </a>
-    <img src="https://cutt.ly/7Opx2B6" width="40" height="40">
-<!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-    <!-- github -->
-    <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
-    <!-- Source tree -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" width="40" height="40">
-    <!-- Cordova -->
-    <!-- Vscode -->
-    <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <!-- Filezilaa -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width="40" height="40">
+  <!-- MySQL -->
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/mysql.png" width="50" height="50">
+  
+    <!-- git -->
+    <img alt="Git" width="40px" src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/git.png" width="50" height="50" />
+    <!-- Maven -->
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/maven.png" width="50" height="50">
+ 
+    <!-- Eclipse -->
+    <img alt="Eclipse" width="40px" src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/eclipse.png" width="50" height="50" />
+    <!-- Intellij Idea -->
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/intellij%20idea.png" width="50" height="50">
     <!-- Postman -->
-    <img src="https://cutt.ly/DOpxKby" width="40" height="40">
-<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/postman.png" width="50" height="50">
+
 </p>
 <br />
 
