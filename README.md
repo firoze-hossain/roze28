@@ -106,10 +106,6 @@ Timezone: Europe/Vienna (CEST)
   <!-- git -->
     <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/git.png" width="50" height="50">
     
-  
-  <!-- git -->
-    <img alt="Git" width="40px" src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/git.png" width="50" height="50" />
-  
     <!-- Maven -->
     <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/maven.png" width="50" height="50">
  
