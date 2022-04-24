@@ -47,13 +47,6 @@
 
 <br />
 
-<h2 align="center">About me 😇</h2>
-<p align="center">
-</p>
-<br />
-
-<br />
-<br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
