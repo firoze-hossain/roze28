@@ -49,7 +49,6 @@
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Timezone: Europe/Vienna (CEST)
 </p>
 <br />
 
@@ -88,45 +87,10 @@ Timezone: Europe/Vienna (CEST)
 
 <h3 align="center">🛠 Skills</h3>
 
-📫 Crypto Providers that are experienced with
 
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crypto-provider/block.io.png" width="300">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crypto-provider/coinpayments.jpg" width="300">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crypto-provider/coinbase_commerce.jpg" width="300">
 
-<br><br>
 
-📫 Modules I have developed & worked with
-```
-👩‍💻 Multilevel Referral System 
-👩‍💻 Event Ticket Module 
-👩‍💻 Payment via  Payment Link  
-👩‍💻 Crypto Send Receive 
-👩‍💻 Crypto Exchange 
-👩‍💻 Standard & Express Merchant Payment 
-👩‍💻 Manual Payment Method 
-👩‍💻 Voucher Module 
-👩‍💻 Qrcode features 
-👩‍💻 Agent Module 
-👩‍💻 WooCommerce Plugin 
-👩‍💻 Mobile Rechage, SMS, Data Bundle Gateways
-👩‍💻 Payment Gateways 
-```
-<br><br>
 
-<br><br>
 
-<br><br>
 
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
-<br />
 
----
-
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
-</p>
