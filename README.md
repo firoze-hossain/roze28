@@ -43,21 +43,6 @@
 
 <p align="center">
   <img width="400" src="https://github.com/roze28/Online_Bookstore-Java-Spring-Thymeleaf-MySQL/blob/master/User-Panel.png" />
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-mobile-app-banner.jpg" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/vrent.jpg" />
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/crm.jpg" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
 </p>
 
 <br />
@@ -67,14 +52,6 @@
 Timezone: Europe/Vienna (CEST)
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
 
 <br />
 <br />
@@ -136,38 +113,8 @@ Timezone: Europe/Vienna (CEST)
 👩‍💻 Payment Gateways 
 ```
 <br><br>
-📫 Payment Gateways I have integrated
 
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/stripe.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/paypal.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/paypal-express.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/razorpay.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/authorize.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/paystack.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/flutterwave.png" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/Payfast.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/orangemoney.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/mtn.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/mpesa.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/my-fatoorah.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/cashu.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/pago-facil.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/my-fatoorah.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/cib.jpg" width="140">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/payment-gateways/n-genious.jpg" width="140">
 <br><br>
-
-📫 SMS Gateways
-
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/sms-gateways/twilio.jpg">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/sms-gateways/movider.jpg">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/sms-gateways/nexmo.jpg">
-<br><br>
-
-📫 Mobile Recharge, Bulk SMS, Data Bundle
-<br><br>
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/recharge-sms-data/reloadly.jpg">
-<img src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/recharge-sms-data/dtone.jpg">
 
 <br><br>
 
