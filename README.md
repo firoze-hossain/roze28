@@ -83,9 +83,9 @@
     <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/git.png" width="50" height="50"/>
 
 </p>
-<br />
 
-<h3 align="center">🛠 Skills</h3>
+
+
 
 
 
