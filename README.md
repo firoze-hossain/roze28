@@ -51,8 +51,8 @@
 <h3 align="center"> Languages and Tools</h3>
 </p>
 
-
 <br />
+
 <p align="center">
      <!-- Java -->
     <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/java.png" width="50" height="50">
