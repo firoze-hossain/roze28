@@ -38,11 +38,11 @@
 <p>Looking for an entry-level Software Engineer(Java) position in fast growing organization to utilize expertise in software development that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company to work with a diverse team that works towards contributing to the company’s vision and goals while concurrently aiding my personal growth.</p>
 <br />
 
-<h2 align="center">Worked on the projects, ahead of the game 💻</h2>
+<h2 align="center">Worked on the projects...</h2>
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-web-banner.jpg" />
+  <img width="400" src="https://github.com/roze28/Online_Bookstore-Java-Spring-Thymeleaf-MySQL/blob/master/User-Panel.png" />
   <img width="400" src="https://github.com/Imtiaze/imtiaze-portfolio/blob/master/img/github-readme/paymoney-mobile-app-banner.jpg" />
  <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
