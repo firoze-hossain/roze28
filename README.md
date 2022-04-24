@@ -102,19 +102,9 @@ Timezone: Europe/Vienna (CEST)
         <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/css.png" alt="css3" width="50" height="50"/> 
     </a>
   <!-- MySQL -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/mysql.png" width="50" height="50">
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/mysql.png" width="50" height="50"/>
   <!-- git -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/git.png" width="50" height="50">
-    
-    <!-- Maven -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/maven.png" width="50" height="50">
- 
-    <!-- Eclipse -->
-    <img alt="Eclipse" width="40px" src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/eclipse.png" width="50" height="50" />
-    <!-- Intellij Idea -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/intellij%20idea.png" width="50" height="50">
-    <!-- Postman -->
-    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/postman.png" width="50" height="50">
+    <img src="https://github.com/roze28/RozeMart/blob/master/Transparent%20images/git.png" width="50" height="50"/>
 
 </p>
 <br />
