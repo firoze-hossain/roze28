@@ -33,13 +33,13 @@
 </p>
 
 <br />
-
+<p>Looking for an entry-level Software Engineer(Java) position in fast growing organization to utilize expertise in software development that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company to work with a diverse team that works towards contributing to the company’s vision and goals while concurrently aiding my personal growth.</p>
+<br />
 <p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
 <br />
 <p>Interested in developing Java Web application with Spring Boot, JPA & Hibernate, MySQL and Thymeleaf.</p>
 <br />
-<p>Looking for an entry-level Software Engineer(Java) position in fast growing organization to utilize expertise in software development that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company to work with a diverse team that works towards contributing to the company’s vision and goals while concurrently aiding my personal growth.</p>
-<br />
+
 
 <h2 align="center">Worked on the projects...</h2>
 <br />
