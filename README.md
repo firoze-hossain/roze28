@@ -37,9 +37,6 @@
 <br />
 <p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
 <br />
-<p>Interested in developing Java Web application with Spring Boot, JPA & Hibernate, MySQL and Thymeleaf.</p>
-<br />
-
 
 <h2 align="center">Worked on the projects...</h2>
 <br />
