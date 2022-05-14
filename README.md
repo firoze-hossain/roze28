@@ -8,6 +8,9 @@
 <p>
 <h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
+<p>
+<h2 align="center"><b>Portfolio:- https://firoze.vercel.app/</b></h2>
+</p>
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
 <!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
