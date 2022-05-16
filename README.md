@@ -9,9 +9,9 @@
 <h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
 
-<p align="center" >
+<p >
 <a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
- <h2>Start Chat with My Skype</h2>
+ <h2 align="center" >Start Chat with My Skype</h2>
 </a>
 </p>
 
