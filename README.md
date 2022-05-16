@@ -12,7 +12,7 @@
 <h2 align="center"><b>Website:- https://firoze.vercel.app/</b></h2>
 </p>
 
-<a href="callto:<live:.cid.5c9473a5f122390c>?call">Call</a>
+<p><a href="skype:<5c9473a5f122390c>?<action>"> Hi</a></p>
 
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
