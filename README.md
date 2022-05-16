@@ -10,7 +10,7 @@
 </p>
 
 <p>
-<h2 align="center"><a href="skype:live:.cid.5c9473a5f122390c?userinfo">Link to my profile</a></h2>
+<h2 align="center"><a href="skype:https://join.skype.com/invite/vFAsw3su2WLa?userinfo">Link to my profile</a></h2>
 </p>
 
 <p>
