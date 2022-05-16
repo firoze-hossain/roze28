@@ -11,9 +11,9 @@
 <p>
 <h2 align="center"><b>Website:- https://firoze.vercel.app/</b></h2>
 </p>
-<p>
-  <a href="callto:<live:.cid.5c9473a5f122390c>?call">Call</a>
-</p>
+
+<a href="callto:<live:.cid.5c9473a5f122390c>?call">Call</a>
+
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
 <!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
