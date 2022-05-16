@@ -9,9 +9,9 @@
 <h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
 
-<p>
-<h2 align="center"><a href="skype:https://join.skype.com/invite/vFAsw3su2WLa?userinfo">Link to my profile</a></h2>
-</p>
+<a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
+ Start Chat
+</a>
 
 <p>
 <h2 align="center"><b>Website:- https://firoze.vercel.app/</b></h2>
