@@ -8,11 +8,14 @@
 <p>
 <h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
+
+<p>
+<h2 align="center"><a href="skype:profile_name?live:.cid.5c9473a5f122390c">Link to my profile</a></h2>
+</p>
+
 <p>
 <h2 align="center"><b>Website:- https://firoze.vercel.app/</b></h2>
 </p>
-
-<p><a href="skype:<live:.cid.5c9473a5f122390c>?<action>"> Hi</a></p>
 
 <p align="center">
 <!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
