@@ -1,6 +1,9 @@
 <p>
 <h1 align="center"><b>Hi, This is Md. Firoze Hossain 👋</b></h1>
 </p>
+<p>
+<h2 align="center"><b>Works as Junior Software Engineer at Leads Corporation Limited.</b></h2>
+</p>
 <br />
 <p>
 <h2 align="center"><b>Mobile:- +8801765002428</b></h2>
