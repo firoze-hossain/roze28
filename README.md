@@ -34,9 +34,13 @@
 <a href="https://leetcode.com/roze28"><img src="https://assets.interviewbit.com/assets/ib_logo_svg-c7ed205b9475b598a9f652d7045054fa26b491fa95cf098569fa41ee0ac34259.svg.gz" alt="LeetCode" height="30" /></a>&nbsp;
 <!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
 </p>
+<p align="center">
+<!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
+<!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
+<a href="https://codeforces.com/profile/firoze.hossain"><img src="https://github.com/JayantGoel001/CodeForces/blob/master/Codeforces_logo.png" alt="CodeForces" height="30" /></a>&nbsp;
+<!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
+</p>
 
-<br />
-<p>Looking for an entry-level Software Engineer(Java) position in fast growing organization to utilize expertise in software development that values my analytical and technical skills and provides scope for updating my knowledge, I seek a company to work with a diverse team that works towards contributing to the company’s vision and goals while concurrently aiding my personal growth.</p>
 <br />
 <p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
 <br />
