@@ -12,8 +12,8 @@
 <h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
 
-<p align="center">
-<h2><a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">Skype</a></h2>
+<p>
+<h2  align="center"><a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">Skype</a></h2>
 
 
 </p>
