@@ -14,7 +14,7 @@
 
 <p>
 <a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
- <h2>align="center"><b>Skype</b></h2>
+ <h2 align="center"><b>Skype</b></h2>
 </a>
 </p>
 
