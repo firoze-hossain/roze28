@@ -12,9 +12,9 @@
 <h2 align="center"><b>Email:- firoze.hossain01@gmail.com</b></h2>
 </p>
 
-<p>
+<p align="center">
 <a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
- <h2 align="center">Skype</h2>
+ <h2>Skype</h2>
 </a>
 </p>
 
