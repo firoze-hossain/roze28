@@ -39,10 +39,6 @@
 </p>
 
 <br />
-<p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
-<br />
-
-<br />
 
 <p>
 <h3 align="center"> Languages and Tools</h3>
