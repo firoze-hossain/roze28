@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.hackerearth.com/@firoze_hossain"><img src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/hackerearth_old_logo.jpg" alt="HackerEarth" height="30" /></a>&nbsp;
+<a href="https://www.hackerearth.com/@firoze_hossain"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" alt="HackerEarth" height="30" /></a>&nbsp;
 </p>
 
 <br />
