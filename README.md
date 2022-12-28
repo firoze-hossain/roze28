@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<a href="https://leetcode.com/firoze_hossain/"><img src="https://assets.interviewbit.com/assets/ib_logo_svg-c7ed205b9475b598a9f652d7045054fa26b491fa95cf098569fa41ee0ac34259.svg.gz" alt="LeetCode" height="30" /></a>&nbsp;
+<a href="https://leetcode.com/firoze_hossain/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" height="30" /></a>&nbsp;
 </p>
 
 <p align="center">
