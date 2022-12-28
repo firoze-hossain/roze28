@@ -55,21 +55,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://github.com/roze28/Essential_Images/blob/master/jpa-hibernate.png" alt="jpa&hibernate" width="50" height="50"/> 
     </a>
-   <!-- Thymeleaf -->
-    <img src="https://github.com/roze28/Essential_Images/blob/master/thymeleaf.png" alt="thymeleaf" width="50" height="50"/> 
-    <!-- html -->
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://github.com/roze28/Essential_Images/blob/master/html.png" alt="html5" width="50" height="50"/> 
-    </a>
-    <!-- css -->
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://github.com/roze28/Essential_Images/blob/master/css.png" alt="css3" width="50" height="50"/> 
-    </a>
-  <!-- MySQL -->
-    <img src="https://github.com/roze28/Essential_Images/blob/master/mysql.png" width="50" height="50"/>
-  <!-- git -->
-    <img src="https://github.com/roze28/Essential_Images/blob/master/git.png" width="50" height="50"/>
-
 </p>
 
 
