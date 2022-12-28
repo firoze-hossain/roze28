@@ -42,14 +42,6 @@
 <p>Completed BSc in Computer Science and Engineering at IUBAT—International University of Business Agriculture and Technology.</p>
 <br />
 
-<h2 align="center">Worked on the projects...</h2>
-<br />
-
-<p align="center">
-  <img width="400" src="https://github.com/roze28/Online_Bookstore-Java-Spring-Thymeleaf-MySQL/blob/master/User-Panel.png" />
-</p>
-
-
 <br />
 
 <p>
