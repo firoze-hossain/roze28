@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.codechef.com/users/firoze_hossain"><img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/media/8cc57f8ba9c4c884ec562d163cd506cc.png" alt="CodeChef" height="30" /></a>&nbsp;
+<a href="https://www.codechef.com/users/firoze_hossain"><img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" /></a>&nbsp;
 </p>
 
 <p align="center">
