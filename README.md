@@ -28,17 +28,17 @@
 <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
 </p>
+
 <p align="center">
-<!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
-<!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
 <a href="https://leetcode.com/firoze_hossain/"><img src="https://assets.interviewbit.com/assets/ib_logo_svg-c7ed205b9475b598a9f652d7045054fa26b491fa95cf098569fa41ee0ac34259.svg.gz" alt="LeetCode" height="30" /></a>&nbsp;
-<!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
 </p>
+
 <p align="center">
-<!--<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp; -->
-<!-- <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp; -->
-<a href="https://codeforces.com/profile/firoze.hossain"><img src="https://github.com/JayantGoel001/CodeForces/blob/master/Codeforces_logo.png" alt="CodeForces" height="30" /></a>&nbsp;
-<!-- <a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp; -->
+<a href="https://www.codechef.com/users/firoze_hossain"><img src="https://cdn.dribbble.com/users/70628/screenshots/1743345/media/8cc57f8ba9c4c884ec562d163cd506cc.png" alt="CodeChef" height="30" /></a>&nbsp;
+</p>
+
+<p align="center">
+<a href="https://www.hackerearth.com/@firoze_hossain"><img src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/09/hackerearth_old_logo.jpg" alt="HackerEarth" height="30" /></a>&nbsp;
 </p>
 
 <br />
