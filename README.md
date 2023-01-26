@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.hackerearth.com/@firoze_hossain"><img src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_dark.png" alt="HackerEarth" height="30" /></a>&nbsp;
+<a href="https://codeforces.com/profile/firoze.hossain"><img src="https://codeforces.org/s/53848/images/codeforces-sponsored-by-ton.png" alt="CodeForces" height="30" /></a>&nbsp;
 </p>
 
 <br />
