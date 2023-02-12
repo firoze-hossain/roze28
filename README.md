@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 #### Who I am?
 - A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 1 year of hands-on experience in **technology consulting, product development.**
-- Developed products for **insurance, ** and **logistics** business domains.
+- Developed products for **insurance**, and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
