@@ -37,12 +37,12 @@ Here are some ideas to get you started:
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
-  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+  - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
+  - **🗂 CI/CD:** • [Jenkins](https://www.jenkins.io/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Mediator](https://en.wikipedia.org/wiki/Mediator_pattern) • [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-  - **🕹 Frameworks:** • [.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) • [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) • [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-1-0) • [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) • [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+  - **🕹 Frameworks:** • [Spring Boot 2.7.7](https://docs.spring.io/spring-boot/docs/2.7.7/) • [Angular 15](https://angular.io/cli)
   
 - **🏗️ Code editors:**
 <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" height=25></a> <a href="https://www.jetbrains.com/webstorm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
@@ -68,10 +68,11 @@ Here are some ideas to get you started:
 </p>
 
 #### What are my recent highlights?
-- [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
-- [featured-photot-editor-on-linkedin-uno-platform](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
-- [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-- [honored-with-dragon-award-by-selise-digital-platforms](https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [Angular - The Complete Guide (2023 Edition) ](https://www.udemy.com/certificate/UC-9bf3851b-1003-46b8-ba6a-a6c2e303d673/)
+- [Master Hibernate and JPA with Spring Boot in 100 Steps ](https://www.udemy.com/certificate/UC-517ba3fe-cf21-4b08-8991-d9a04e6ba10c/)
+- [Spring Boot in 100 Steps - Beginner to Expert](http://ude.my/UC-dcd4ff6a-dff5-4119-9b7c-c5919cf26e8e)
+- [NASSCOM IT-ITES Sector Skill Council (SSC) Certification on Java](https://drive.google.com/file/d/1ouQFppglTJs3GZ9Rcd6EDgRxbjQhdPeR/view?usp=sharing)
+- [Build An Online Bank With Java, Angular 2, Spring and More](http://ude.my/UC-8627a727-ae1b-4721-b9ef-89c89670488b/)
 
 #### How to get in touch with me?
 <p left="center">
