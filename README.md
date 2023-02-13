@@ -102,5 +102,8 @@ Here are some ideas to get you started:
 <a href="mailto:firoze.hossain01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
+  <a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
+  <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" height=25>
+</a>
 </p>
 
