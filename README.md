@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at **[LeadSoft](https://leadsoft.com.bd/)** as a **Junior Software Engineer**.
 - 👨‍💻 Writing `Java` `SQL` `XAML` `HTML` `CSS` `JavaScript` `TypeScript` `Thymeleaf`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Spring community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Spring community**.
 - 📚 Currently learning about **clean code**, **problem solving**, **deep dive spring boot**, and **rest services**.
 - 👯 Looking to collaborate on **Spring Boot projects**.
 - 🥰 Building **[Test1](https://github.com/firoze-hossain)**, **[Test2](https://github.com/firoze-hossain)**, **[Test3](https://github.com/firoze-hossain)**, **[Test4](https://github.com/firoze-hossain)**, **[Test5](https://github.com/firoze-hossain)**, **[Test6](https://github.com/firoze-hossain)** & **[Test7](https://github.com/firoze-hossain)** as pet projects.
