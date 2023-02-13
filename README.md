@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   - **🕹 Frameworks:** • [Spring Boot 2.7.7](https://docs.spring.io/spring-boot/docs/2.7.7/) • [Angular 15](https://angular.io/cli)
   
 - **🏗️ Code editors:**
-<a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" height=25></a> <a href="https://www.jetbrains.com/webstorm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" height=25></a> <a href="https://www.jetbrains.com/webstorm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> <a href="https://www.jetbrains.com/datagrip/"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/product_256.png" height=25></a>
   
 #### What's interesting about me?  
   - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
