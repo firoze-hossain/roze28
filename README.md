@@ -10,6 +10,20 @@ Here are some ideas to get you started:
 - Have 1 year of hands-on experience in **technology consulting, product development.**
 - Developed products for **insurance**, and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
+<p align="left">
+  <a href="https://leetcode.com/firoze_hossain/">
+    <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain" alt="LC rating" />
+  </a>
+  <a href="https://codeforces.com/profile/firoze.hossain">
+    <img src="https://raw.githubusercontent.com/firoze.hossain/cf-stats/main/output/rating.svg" alt="CF rating" />
+  </a>
+  <a href="https://github.com/firoze-hossain?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/firoze-hossain?color=green&logo=github">
+  </a>
+  <a href="https://github.com/firoze-hossain/">
+    <img src="https://komarev.com/ghpvc/?username=firoze-hossain" alt="visitors" />
+  </a>
+</p>
 
 #### What I'm doing?
 - 🏢 Working at **[LeadSoft](https://leadsoft.com.bd/)** as a **Junior Software Engineer**.
