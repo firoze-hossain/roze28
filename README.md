@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 - 👨‍💻 **Problem Solving:**
+
  [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)  
  [<img src="https://img.shields.io/badge/Leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/firoze_hossain/) 
  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/firoze.hossain)
