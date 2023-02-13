@@ -105,5 +105,8 @@ Here are some ideas to get you started:
   <a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
   <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" height=25>
 </a>
+  <a href="https://firoze.vercel.app/">
+  <img src="https://img.shields.io/badge/vercel-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" height=25>
+</a>
 </p>
 
