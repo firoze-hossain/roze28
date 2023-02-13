@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 👨‍💻 **Problem Solving:**
-   - **👨‍💻 [CodeChef](https://www.codechef.com/users/firoze_hossain)** 
-  - **👨‍💻 [LeetCode](https://leetcode.com/firoze_hossain/)** 
-  - **👨‍💻 [CodeForces](https://codeforces.com/profile/firoze.hossain)**   
+   - **👨👨[CodeChef](https://www.codechef.com/users/firoze_hossain)** 
+  - **🔥🔥[LeetCode](https://leetcode.com/firoze_hossain/)** 
+  - **💎💎[CodeForces](https://codeforces.com/profile/firoze.hossain)**   
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
