@@ -34,9 +34,18 @@ Here are some ideas to get you started:
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 👨‍💻 **Problem Solving:**
-   - **👨[CodeChef](https://www.codechef.com/users/firoze_hossain)** 
-  - **🔥[LeetCode](https://leetcode.com/firoze_hossain/)** 
-  - **💎[CodeForces](https://codeforces.com/profile/firoze.hossain)**   
+   [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
+   <p float="right">
+<img height="280em" src="https://raw.githubusercontent.com/firoze-hossain/cf-stats/main/output/light_card.svg" />
+</p>
+ [<img src="https://img.shields.io/badge/Leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/firoze_hossain/) 
+   <p float="right">
+<img height="275em" src="https://leetcard.jacoblin.cool/firoze_hossain?theme=light&font=Karma&ext=contest" />>
+</p>
+  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">]((https://codeforces.com/profile/firoze.hossain)
+   <p float="right">
+<img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/light_card.svg" />
+</p>
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
