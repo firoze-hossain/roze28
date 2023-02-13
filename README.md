@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   - **💾 Databases:** • [Oracle](https://www.oracle.com/database/) • [MySQL](https://www.mysql.com/) 
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+
+
 - 👨‍💻 **Problem Solving:**
    [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
    <p float="right">
@@ -44,8 +46,10 @@ Here are some ideas to get you started:
 </p>
   [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">]((https://codeforces.com/profile/firoze.hossain)
    <p float="right">
-<img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/firoze-hossain/cf-stats/main/output/light_card.svg" />
 </p>
+
+
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
