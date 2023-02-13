@@ -17,6 +17,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/firoze-hossain/">
     <img src="https://komarev.com/ghpvc/?username=firoze-hossain" alt="visitors" />
   </a>
+  <a href="https://www.codechef.com/users/firoze_hossain">
+    <img src="https://cp-logo.vercel.app/codechef/firoze_hossain" alt="CC rating" />
+  </a>
 </p>
 
 #### What I'm doing?
