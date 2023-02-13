@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <a href="https://www.codechef.com/users/firoze_hossain">
     <img src="https://cp-logo.vercel.app/codechef/firoze_hossain" alt="CC rating" />
   </a>
+  <a href="https://leetcode.com/firoze_hossain/">
+    <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain" alt="CC rating" />
+  </a>
 </p>
 
 #### What I'm doing?
