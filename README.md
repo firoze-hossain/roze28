@@ -36,24 +36,13 @@ Here are some ideas to get you started:
 
 
 - 👨‍💻 **Problem Solving:**
- </br>
-   [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
-   </br>
-   <p float="right">
-<img height="280em" src="https://raw.githubusercontent.com/firoze-hossain/cf-stats/main/output/light_card.svg" />
-</p>
-</br>
+ 
+ [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
+   
  [<img src="https://img.shields.io/badge/Leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/firoze_hossain/) 
- </br>
-   <p float="right">
-<img height="275em" src="https://leetcard.jacoblin.cool/firoze_hossain?theme=light&font=Karma&ext=contest" />>
-</p>
-</br>
-  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/firoze.hossain)
-  </br>
-   <p float="right">
-<img height="280em" src="https://raw.githubusercontent.com/firoze-hossain/cf-stats/main/output/light_card.svg" />
-</p>
+ 
+ [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/firoze.hossain)
+ 
 
 
 - 🎡 **Software development ecosystem:**
