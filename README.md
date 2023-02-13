@@ -64,7 +64,10 @@ Here are some ideas to get you started:
   
 - **🏗️ Code editors:**
 <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" height=25></a> <a href="https://www.jetbrains.com/webstorm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> <a href="https://www.jetbrains.com/datagrip/"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/product_256.png" height=25></a>
-  
+ - **💻 Operating System:**
+   - [Ubuntu](https://ubuntu.com/)
+   - [Fedora Workstation](https://getfedora.org/en/workstation/)
+   - [Windows 11](https://www.microsoft.com/en-us/windows/windows-11?r=1)
 #### What's interesting about me?  
   - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
