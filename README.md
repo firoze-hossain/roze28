@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
   - **🗂 CI/CD:** • [Jenkins](https://www.jenkins.io/) • [Jenkins Pipelines](https://www.jenkins.io/doc/pipeline/tour/hello-world/) • [Github Actions](https://github.com/features/actions) 
-  - **🗂 Devops:** • [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) • [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+  - **👉 Devops:** • [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) • [Docker](https://en.wikipedia.org/wiki/Docker_(software))
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**   • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
   - **🗜 Principles:** • [ACID](https://en.wikipedia.org/wiki/ACID)  • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
