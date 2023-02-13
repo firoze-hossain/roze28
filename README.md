@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Spring community**.
 - 📚 Currently learning about **clean code**, **problem solving**, **deep dive spring boot**, and **rest services**.
 - 👯 Looking to collaborate on **spring boot projects**.
-- 🥰 Building **[Test1](https://github.com/firoze-hossain)**, **[Test2](https://github.com/firoze-hossain)** as pet projects.
+- 🥰 Building **[Online_Bank](https://github.com/firoze-hossain/Online_Bank-Spring-Angular-MySQL)**, **[RozeMart
+](https://github.com/firoze-hossain/RozeMart)** as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `Spring Boot Stack` `web APIs` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
