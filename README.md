@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 - 👨‍💻 **Problem Solving Status:**
 <p float="left">
 <img height="275em" src="https://leetcard.jacoblin.cool/firoze_hossain?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/firoze-hossain/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/firoze.hossain/cf-stats/main/output/light_card.svg" />
 </p>
+</br>
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
