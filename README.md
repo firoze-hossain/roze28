@@ -108,5 +108,9 @@ Here are some ideas to get you started:
   <a href="https://firoze.vercel.app/">
   <img src="https://img.shields.io/badge/vercel-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" height=25>
 </a>
+  </a>
+  <a href="https://medium.com/@firoze_hossain">
+  <img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
 </p>
 
