@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 TypeScript` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **📜 Languages:** • `🧙🏻 TypeScript` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨🏻‍🎨 Thymeleaf`
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [Angular](https://angular.io/)
 - 🗄️ **Back-end:**
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   - **🔭 Frameworks:** • [Spring Boot](https://spring.io/) • [Spring Security](https://spring.io/projects/spring-security) •[Spring Data](https://spring.io/projects/spring-data)
   - **💾 Databases:** • [Oracle](https://www.oracle.com/database/) • [MySQL](https://www.mysql.com/) 
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-  - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+  - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/)
 
 - 👨‍💻 **Problem Solving:**
    [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
