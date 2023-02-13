@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/firoze_hossain/">
     <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain" alt="LC rating" />
   </a>
-   <a href="https://codeforces.com/profile/firoze.hossain">
-    <img src="https://cp-logo.vercel.app/codeforces/firoze.hossain" alt="CF rating" />
-  </a>
 </p>
 
 #### What I'm doing?
