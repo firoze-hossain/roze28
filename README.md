@@ -119,9 +119,6 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/20220818/md-firoze-hossain">
   <img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
-  </a>
-  <a href="https://t.me/firoze_hossain">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25>
-</a>
+
 </p>
 
