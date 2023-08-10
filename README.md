@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - 👨‍💻 **Problem Solving:**
    [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
    [<img src="https://img.shields.io/badge/Leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/firoze_hossain/) 
-   [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/firoze.hossain)
+   [<img src="https://img.shields.io/badge/Hackerrank-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.hackerrank.com/firoze_hossain)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
@@ -98,17 +98,11 @@ Here are some ideas to get you started:
 
 #### How to get in touch with me?
 <p left="center">
-<a href="https://twitter.com/firoze_hossain3">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
 <a href="https://www.linkedin.com/in/firoze-hossain/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="mailto:firoze.hossain01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-  <a href="https://join.skype.com/invite/vFAsw3su2WLa?chat">
-  <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" height=25>
 </a>
   <a href="https://firoze.vercel.app/">
   <img src="https://img.shields.io/badge/vercel-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white" height=25>
