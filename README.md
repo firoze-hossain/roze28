@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 - 👨‍💻 **Problem Solving:**
    [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/firoze_hossain)
    [<img src="https://img.shields.io/badge/Leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/firoze_hossain/) 
-   [<img src="https://img.shields.io/badge/Hackerrank-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.hackerrank.com/firoze_hossain)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
