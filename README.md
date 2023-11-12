@@ -116,7 +116,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
 <a href="https://telegram.me/firoze_hossain">
-  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-%40awesometelegram-blue.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
 </a>
 </p>
 
