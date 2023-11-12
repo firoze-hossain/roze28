@@ -89,6 +89,9 @@ Here are some ideas to get you started:
 </p>
 
 #### What are my recent highlights?
+- [Data Structures and Algorithms: Deep Dive Using Java ](https://www.udemy.com/certificate/UC-931137ef-c10d-4793-85a5-0b791154a8e0/)
+- [Java Intermediates by CodeChef ](https://www.codechef.com/certificates/public/16f8078)
+- [Java (Basic) by Hackerrank ](https://www.hackerrank.com/certificates/9b61764fd814)
 - [Angular - The Complete Guide (2023 Edition) ](https://www.udemy.com/certificate/UC-9bf3851b-1003-46b8-ba6a-a6c2e303d673/)
 - [Master Hibernate and JPA with Spring Boot in 100 Steps ](https://www.udemy.com/certificate/UC-517ba3fe-cf21-4b08-8991-d9a04e6ba10c/)
 - [Spring Boot in 100 Steps - Beginner to Expert](http://ude.my/UC-dcd4ff6a-dff5-4119-9b7c-c5919cf26e8e)
