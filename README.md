@@ -118,5 +118,8 @@ Here are some ideas to get you started:
 <a href="https://telegram.me/firoze_hossain">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
 </a>
+<a href="https://join.skype.com/invite/yWQSIxeBwcwb">
+  <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" height=25>
+</a>
 </p>
 
