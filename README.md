@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://cp-logo.vercel.app/codechef/firoze_hossain?logo=true" alt="CC rating" />
   </a>
   <a href="https://leetcode.com/firoze_hossain/">
-    <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain" alt="LC rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain?logo=true" alt="LC rating" />
   </a>
 </p>
 
