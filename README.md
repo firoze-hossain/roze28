@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://cp-logo.vercel.app/codechef/firoze_hossain?logo=true" alt="CC rating" />
   </a>
   <a href="https://www.hackerrank.com/profile/firoze_hossain">
-    <img src="https://cp-logo.vercel.app/hackerrank/firoze_hossain?logo=true" alt="HackerRank Rating" />
+    <img src="https://img.shields.io/badge/hackerrank-1011-blue?logo=true" alt="HackerRank Rating" />
   </a>
   <a href="https://leetcode.com/firoze_hossain/">
     <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain?logo=true" alt="LC rating" />
