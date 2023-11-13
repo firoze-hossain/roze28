@@ -18,13 +18,13 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=firoze-hossain" alt="visitors" />
   </a>
   <a href="https://www.codechef.com/users/firoze_hossain">
-    <img src="https://cp-logo.vercel.app/codechef/firoze_hossain?logo=true" alt="CC rating" />
+    <img src="https://cp-logo.vercel.app/codechef/firoze_hossain" alt="CC rating" />
   </a>
   <a href="https://www.hackerrank.com/profile/firoze_hossain">
-    <img src="https://img.shields.io/badge/hackerrank-1011-blue?logo=true" alt="HackerRank Rating" />
+    <img src="https://img.shields.io/badge/Hackerrank-1011-blue" alt="HackerRank Rating" />
   </a>
   <a href="https://leetcode.com/firoze_hossain/">
-    <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain?logo=true" alt="LC rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/firoze_hossain" alt="LC rating" />
   </a>
 </p>
 
