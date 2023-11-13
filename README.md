@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/)
 
 - 👨‍💻 **Problem Solving:**
-   [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height=25>](https://www.codechef.com/users/firoze_hossain)
-  [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25>](https://www.hackerrank.com/profile/firoze_hossain) 
-   [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height=25>](https://leetcode.com/firoze_hossain/) 
+   [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height=20>](https://www.codechef.com/users/firoze_hossain)
+  [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=20>](https://www.hackerrank.com/profile/firoze_hossain) 
+   [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height=20>](https://leetcode.com/firoze_hossain/) 
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
