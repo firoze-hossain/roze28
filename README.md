@@ -119,5 +119,9 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/20220818/md-firoze-hossain">
   <img src="https://img.shields.io/badge/stackoverflow-%230077B5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25>
 </a>
+  </a>
+  <a href="https://twitter.com/firoze_hossain1">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a>
 </p>
 
