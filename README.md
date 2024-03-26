@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     - **🌐 Web:** • [Angular](https://angular.io/)
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ Java 17 & 21
-  - **🔭 Frameworks:** • [Spring Boot](https://spring.io/) • [Spring Security](https://spring.io/projects/spring-security) •[Spring Data](https://spring.io/projects/spring-data)
+  - **🔭 Frameworks:** • [Spring Boot](https://spring.io/projects/spring-boot) • [Spring Security](https://spring.io/projects/spring-security) •[Spring Data](https://spring.io/projects/spring-data)
   - **💾 Databases:** • [Oracle](https://www.oracle.com/database/) • [MySQL](https://www.mysql.com/) 
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://spring.io/guides/gs/rest-service/) • [RabbitMQ](https://www.rabbitmq.com/)
