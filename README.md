@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [Angular](https://angular.io/)
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ Java 8 & 11`
+  - **📜 Languages:** • `🧙🏻‍♂️ Java 17 & 21
   - **🔭 Frameworks:** • [Spring Boot](https://spring.io/) • [Spring Security](https://spring.io/projects/spring-security) •[Spring Data](https://spring.io/projects/spring-data)
   - **💾 Databases:** • [Oracle](https://www.oracle.com/database/) • [MySQL](https://www.mysql.com/) 
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
@@ -62,9 +62,9 @@ Here are some ideas to get you started:
   - **🗂 CI/CD:** • [Jenkins](https://www.jenkins.io/) • [Jenkins Pipelines](https://www.jenkins.io/doc/pipeline/tour/hello-world/) • [Github Actions](https://github.com/features/actions) 
   - **👉 Devops:** • [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) • [Docker](https://en.wikipedia.org/wiki/Docker_(software))
 - 🧙‍♂️ **Coding pattern & principles:**
-  - **⚒ Patterns:**   • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
-  - **🗜 Principles:** • [ACID](https://en.wikipedia.org/wiki/ACID)  • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-  - **🕹 Frameworks:** • [Spring Boot 2.7.7](https://docs.spring.io/spring-boot/docs/2.7.7/) • [Angular 15](https://angular.io/cli)
+  - **⚒ Patterns:**   • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  • [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)
+  - **🗜 Principles:** • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+  - **🕹 Frameworks:** • [Spring Boot 3.2.X](https://docs.spring.io/spring-boot/docs/3.2.3/reference/html/) • [Angular 15](https://angular.io/cli)
   
 - **🏗️ Code editors:**
 <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png?20200803071016" height=25></a> <a href="https://www.jetbrains.com/webstorm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a> <a href="https://www.jetbrains.com/datagrip/"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/product_256.png" height=25></a>
