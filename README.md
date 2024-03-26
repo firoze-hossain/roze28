@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### What I'm doing?
 - 🏢 Worked at **[LeadSoft Bangladesh Limited](https://leadsoft.com.bd/)** as a **Junior Software Engineer** from **August 2022 - December 2023**.
-- 👨‍💻 Writing `Java` `SQL` `XAML` `HTML` `CSS` `JavaScript` `TypeScript` `Thymeleaf`.
+- 👨‍💻 Writing `Java` `Spring Framework` `MySQL` `Angular`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Spring community**.
 - 📚 Currently learning about **clean code**, **problem solving**, **deep dive spring boot**, and **rest services**.
 - 👯 Looking to collaborate on **spring boot projects**.
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 TypeScript` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS` • `👨🏻‍🎨 Thymeleaf`
+  - **📜 Languages:** • `🧙🏻 TypeScript` • `👨‍🔧 JavaScript` 
   - **🔬 Frameworks:**  
     - **🌐 Web:** • [Angular](https://angular.io/)
 - 🗄️ **Back-end:**
