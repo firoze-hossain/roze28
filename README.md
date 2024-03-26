@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 #### What I'm doing?
-- 🏢 Working at **[LeadSoft Bangladesh Limited](https://leadsoft.com.bd/)** as a **Junior Software Engineer**.
+- 🏢 Worked at **[LeadSoft Bangladesh Limited](https://leadsoft.com.bd/)** as a **Junior Software Engineer** from **August 2022 - December 2023**.
 - 👨‍💻 Writing `Java` `SQL` `XAML` `HTML` `CSS` `JavaScript` `TypeScript` `Thymeleaf`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Spring community**.
 - 📚 Currently learning about **clean code**, **problem solving**, **deep dive spring boot**, and **rest services**.
