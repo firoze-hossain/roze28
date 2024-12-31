@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 3.5+ years of hands-on experience in **technology consulting, product development.**
+- Have 2+ years of hands-on experience in **technology consulting, product development.**
 - Developed products for **insurance**, and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 <p align="left">
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at **[United Hospital Limited](https://www.uhlbd.com/)** as a **Software Developer** from **July 2024 - Continue**.
 - 🏢 Worked at **[LeadSoft Bangladesh Limited](https://leadsoft.com.bd/)** as a **Junior Software Engineer** from **August 2022 - June 2024**.
-- 🏢 Worked at **[Orangetoolz](https://leadsoft.com.bd/)** as a **Intern & Junior Software Engineer** from **July 2021 - July 2022**.
 - 👨‍💻 Writing `Java` `Spring Framework` `MySQL` `Angular`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/firoze-hossain/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Spring community**.
 - 📚 Currently learning about **clean code**, **problem solving**, **deep dive spring boot**, and **rest services**.
